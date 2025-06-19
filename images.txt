@@ -1,0 +1,11 @@
+c:\Users\acer\Desktop\New folder\jupiter.png
+c:\Users\acer\Desktop\New folder\mars.png
+c:\Users\acer\Desktop\New folder\moon.png 
+c:\Users\acer\Desktop\New folder\neptune.png
+c:\Users\acer\Desktop\New folder\pluto.png 
+c:\Users\acer\Desktop\New folder\mercury.png
+c:\Users\acer\Desktop\New folder\venus.png 
+c:\Users\acer\Desktop\New folder\saturn.png
+c:\Users\acer\Desktop\New folder\sun.png
+c:\Users\acer\Desktop\New folder\uranus.png
+c:\Users\acer\Desktop\New folder\earth.png
